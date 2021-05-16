@@ -1,0 +1,5 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Igor Lourenço', 46362180860, 3000.0, TIMESTAMP WITH TIME ZONE '1996-05-10T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Cristiano Ronaldo', 1574525962, 2000.0, TIMESTAMP WITH TIME ZONE '1983-04-04T20:59:19Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Lionel Messi', 96587412036, 1000.0, TIMESTAMP WITH TIME ZONE '1980-05-20T20:59:19Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Neymar Junior', 79653015478, 3000.0, TIMESTAMP WITH TIME ZONE '1975-05-20T20:59:19Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Karin Benzema', 96663201554, 5000.0, TIMESTAMP WITH TIME ZONE '1989-05-20T20:59:19Z', 4);
